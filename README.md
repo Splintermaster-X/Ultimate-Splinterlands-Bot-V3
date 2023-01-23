@@ -1,7 +1,5 @@
 # Ultimate-Splinterlands-Bot-V3
 New! A fast, free, multi-account splinderlands bot
-# Ultimate-Splinterlands-Bot-V2
-
 
 # Support / Community
 
@@ -32,9 +30,9 @@ New! A fast, free, multi-account splinderlands bot
 - Download the linux-x64.zip from the [Releases Page](https://github.com/PCJones/Ultimate-Splinterlands-Bot-V2/releases) and extract it
 - Create config.txt and accounts.txt in config folder - see config-example.txt and accounts-example.txt
 - Open terminal in the bot folder and execute the following command
-  - `chmod +x ./Ultimate\ Splinterlands\ Bot\ V2`
+  - `chmod +x ./Ultimate\ Splinterlands\ Bot\ V3`
 - To start the bot open terminal in the bot folder and execute the following command:
-  - `./Ultimate\ Splinterlands\ Bot\ V2`
+  - `./Ultimate\ Splinterlands\ Bot\ V3`
 - If you need help feel free to ask for instructions on discord or Telegram
 
 [Discord](https://discord.gg/hwSr7KNGs9)
