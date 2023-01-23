@@ -20,6 +20,7 @@ New! A fast, free, multi-account splinderlands bot
 ## How to install (Windows)
 - [Youtube Tutorial](https://www.youtube.com/watch?v=wVHL94ZH5r8) - warning: it's a bit outdated (chromedriver is no longer needed)
 - Download the zip file
+- RUN Ultimate Splinterlands Bot V3.exe
 - Install https://dotnet.microsoft.com/download/dotnet/6.0/runtime ("Run console apps")
 - Create config.txt and accounts.txt in config folder - see config-example.txt and accounts-example.txt
 - Start the bot by double clicking on Ultimate Splinterlands Bot V2.exe in main folder
